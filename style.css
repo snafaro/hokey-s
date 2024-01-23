@@ -7,3 +7,25 @@ body > main > .prohok{
     border-bottom: 1px dashed rgba(19, 19, 24, 0.20);
     padding: 32px 0;
 }
+
+body > main > .program > .sub-program > .one{
+    background-image: linear-gradient(rgba(19, 19, 24, 0.50) 0%, rgba(19, 19, 24, 0.50) 0%), url(Images/2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+body > main > .program > .sub-program > .two{
+    background-image:linear-gradient(rgba(19, 19, 24, 0.50) 0%, rgba(19, 19, 24, 0.50) 0%), url(Images/3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+body > main > .program > .big-banner{
+    background-image: linear-gradient(rgba(19, 19, 24, 0.50) 0%, rgba(19, 19, 24, 0.50) 0%), url(Images/4.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
